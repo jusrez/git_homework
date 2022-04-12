@@ -8,3 +8,6 @@ Strategies
 
 Shoutout
 --Super appreciative of my coworkers. They've been very supportive even though I'm leaving to attend Turing.
+
+New Thoughts
+--The Mod 0 project is going to be a lot more difficult than I thought, but spending a few hours a day is helping me to figure it out.
