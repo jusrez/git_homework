@@ -3,7 +3,6 @@ Takeaways
 --Practice makes perfect.
 
 Strategies
---I want to be more specific when creating blocks on my calendar.
 --I want to get better at Git!
 
 Shoutout
